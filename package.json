@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/georgebearden/node-http-basic-auth/issues"
   },
-  "homepage": "https://github.com/georgebearden/node-http-basic-auth#readme"
+  "homepage": "https://github.com/georgebearden/node-http-basic-auth#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
 }
