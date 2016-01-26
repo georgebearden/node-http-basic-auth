@@ -1,7 +1,7 @@
 {
   "name": "node-http-basic-auth",
   "version": "1.0.0",
-  "description": "A sample application showing the integration of nodejs, express and passport for basic http authentication",
+  "description": "A sample application showing the integration of nodejs, express for basic http authentication",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "nodejs",
-    "passport",
+    "authentication",
     "express"
   ],
   "author": "georgebearden",
